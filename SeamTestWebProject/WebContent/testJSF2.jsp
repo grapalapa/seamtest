@@ -13,7 +13,6 @@
 	<f:view>
 		<h:form>
 		  <h:outputText value="#{backingBean1.address}" />
-		  <h:outputText value="#{backingBean1.address}" />
 		</h:form>
 	</f:view>
 </body>
